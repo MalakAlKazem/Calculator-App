@@ -20,8 +20,8 @@ Jetpack Compose is Android’s modern toolkit for building native UI. It simplif
 ## Screenshots
 
 <div>
-    <img src="appPhotos/AddPhoto.png" alt="Calculator Screenshot Addition" width="400"/>
-    <img src="appPhotos/ResultPhoto.png" alt="Calculator Screenshot Result" width="400"/>
+    <img src="appPhotos/AddPhoto.png" alt="Calculator Screenshot Addition" width="300"/>
+    <img src="appPhotos/ResultPhoto.png" alt="Calculator Screenshot Result" width="300"/>
 </div>
 
 
