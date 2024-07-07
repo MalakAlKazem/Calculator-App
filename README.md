@@ -11,8 +11,8 @@ CalculatorApp is a simple calculator application built using Jetpack Compose. Je
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="appPhotos/AddPhoto.png" alt="Calculator Screenshot Addition" width="300" style="margin-right: 10px;"/>
-    <img src="appPhotos/ResultPhoto.png" alt="Calculator Screenshot Result" width="300" style="margin-left: 10px;"/>
+    <img src="appPhotos/AddPhoto.png" alt="Calculator Screenshot Addition" width="300" style="margin-right: 30px;"/>
+    <img src="appPhotos/ResultPhoto.png" alt="Calculator Screenshot Result" width="300" style="margin-left: 30px;"/>
 </div>
 
 ### Prerequisites
