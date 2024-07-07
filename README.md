@@ -8,9 +8,12 @@ CalculatorApp is a simple calculator application built using Jetpack Compose. Je
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Responsive design using Jetpack Compose.
 
-## ScreenShots
-<img src="appPhotos/AddPhoto.png" alt="Calculator Screenshot Addition" width="200"/>
-<img src="appPhotos/ResultPhoto.png" alt="Calculator Screenshot Result" width="200"/>
+## Screenshots
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="appPhotos/AddPhoto.png" alt="Calculator Screenshot Addition" width="200"/>
+    <img src="appPhotos/ResultPhoto.png" alt="Calculator Screenshot Result" width="200"/>
+</div>
 
 ### Prerequisites
 
